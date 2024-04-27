@@ -21,3 +21,5 @@
     *   K-Nearst Neighbour (KNN)
 * **Lab_07**
     *   Single Layer Perceptron (SLP)
+* **Lab_09**
+    *   Multi Layer Perceptron (MLP)
