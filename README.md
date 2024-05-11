@@ -23,3 +23,5 @@
     *   Single Layer Perceptron (SLP)
 * **Lab_09**
     *   Multi Layer Perceptron (MLP)
+* **Lab_10**
+    *   K-Means Clustering
