@@ -25,3 +25,5 @@
     *   Multi Layer Perceptron (MLP)
 * **Lab_10**
     *   K-Means Clustering
+* **Lab_11**
+    *   Decision Tree
