@@ -27,3 +27,5 @@
     *   K-Means Clustering
 * **Lab_11**
     *   Decision Tree
+* **Lab_12**
+    *   Genetic Algorithm
